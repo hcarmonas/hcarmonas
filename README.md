@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<a href="https://app.daily.dev/hugocarmona"><img src="https://api.daily.dev/devcards/aa369345dd27404c99bd8c6461d91677.png?r=3d7" width="400" alt="Hugo Carmona's Dev Card"/></a>
+
 **hcarmonas/hcarmonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
